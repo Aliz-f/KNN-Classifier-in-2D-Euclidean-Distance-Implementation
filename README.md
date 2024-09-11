@@ -29,7 +29,7 @@ The function computes the Euclidean distance between each query point and the po
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aliz-f/knn-classifier.git
+    git clone https://github.com/Aliz-f/KNN-Classifier-in-2D-Euclidean-Distance-Implementation.git
     ```
 
 2. Install required libraries (if applicable):
